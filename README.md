@@ -2,7 +2,7 @@
 This code reproduces the first method of the Forensic approach for distinguishing between source and destination regions in copy-move forgery
 
 ## Author Information
-This code was developed by Zhaowei Lu.
+This code was developed by Zhaowei Lu (6/10/2024).
 <br>luzhaoweizzu@163.com
 
 ## Conclusion
