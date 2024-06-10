@@ -3,4 +3,4 @@ This code reproduces the first method of the Forensic approach for distinguishin
 
 ## Author Information
 This code was developed by Zhaowei Lu.
-luzhaoweizzu@163.com
+<br>luzhaoweizzu@163.com
