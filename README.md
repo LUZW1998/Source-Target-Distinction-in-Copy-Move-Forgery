@@ -1,4 +1,4 @@
-# Source-Target-Distinction-in-Copy-Move-algorithm
+# Source-Target Distinction in Copy-Move Forgery
 This code reproduces the first method of the Forensic approach for distinguishing between source and destination regions in copy-move forgery
 
 ## Author Information
